@@ -95,7 +95,7 @@ x64, Ubuntu 20.04 or later, or equivalent.
 
 ---
 
-## Features
+## Features.
 
 - Send and receive XCH and CAT tokens from one account.
 - Create offers with a 7-day default expiry, and cancel them from the same list.
